@@ -158,4 +158,5 @@
 	};
 
 	document.querySelector(".continue-button").onclick = e => onContinueClicked();
+	document.body.addEventListener('keypress', e => { if (e.code === "Space") onContinueClicked() });
 })();
