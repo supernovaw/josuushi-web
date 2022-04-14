@@ -65,6 +65,17 @@ body {
 	background-color: rgba(32, 32, 32, 0.5);
 }
 
+.speed-display {
+	color: grey;
+	position: relative;
+	display: flex;
+}
+
+.speed-display div {
+	position: absolute;
+	user-select: none;
+}
+
 .notice {
 	position: absolute;
 	top: 5px;
