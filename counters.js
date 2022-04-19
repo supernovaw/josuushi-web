@@ -512,7 +512,8 @@
 				"くにち"
 			],
 			"exceptions":
-				[{ "number": 3, "reading": "みっか" },
+				[{ "number": 2, "reading": "ふつか" },
+				{ "number": 3, "reading": "みっか" },
 				{ "number": 4, "reading": "よっか" },
 				{ "number": 5, "reading": "いつか" },
 				{ "number": 6, "reading": "むいか" },
